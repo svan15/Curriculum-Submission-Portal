@@ -1,0 +1,47 @@
+Array
+(
+    [semesters] => Array
+        (
+            [0] => Array
+                (
+                    [semester] => 1st Semester Semester, 2025-2026
+                    [entries] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [subject_area] => test5
+                                    [category_no] => test5
+                                    [course_title] => test5
+                                    [lec_units] => 1
+                                    [lab_units] => 2
+                                    [total_units] => 3
+                                    [pre_requisites] => test5
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [semester] => 2nd Semester Semester, 2025-2026
+                    [entries] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [subject_area] => test5
+                                    [category_no] => test5
+                                    [course_title] => test5
+                                    [lec_units] => 1.3
+                                    [lab_units] => 2
+                                    [total_units] => 3.3
+                                    [pre_requisites] => test5
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
